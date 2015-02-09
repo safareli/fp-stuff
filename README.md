@@ -19,7 +19,7 @@ Functinoal Programing and stuff
 * [Monads, Monoids, and Make Believe.](https://www.youtube.com/watch?v=ww2Z1URx-G0)
 * [Version 7: The Evolution of JavaScript](https://www.youtube.com/watch?v=DqMFX91ToLw)
 * [Persistent Data Structures and Managed References](http://www.infoq.com/presentations/Value-Identity-State-Rich-Hickey)
-* [Journey from procedural to reactive JavaScript with stops](http://bahmutov.calepin.co/journey-from-procedural-to-reactive-javascript-with-
+* [Journey from procedural to reactive JavaScript with stops](http://bahmutov.calepin.co/journey-from-procedural-to-reactive-javascript-with-stops.html)
 * [Hacker Way: Rethinking Web App Development at Facebook](https://www.youtube.com/watch?v=nYkdrAPrdcw)
 * [Reactive MVC and the Virtual DOM — Futurice](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom)
 * ["ClojureScript: Lisp's Revenge"](https://www.youtube.com/watch?v=MTawgp3SKy8)
