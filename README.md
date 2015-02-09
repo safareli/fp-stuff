@@ -31,4 +31,4 @@ Functinoal Programing and stuff
 * [What does it mean to be Reactive?](https://www.youtube.com/watch?v=sTSQlYX5DU0)
 * [Brian Beckman: Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8)
 * [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
-* [Erik Meijer: Functional Programming](https://www.youtube.com/watch?v=z0N1aZ6SnBk)"
+* [Erik Meijer: Functional Programming](https://www.youtube.com/watch?v=z0N1aZ6SnBk)
