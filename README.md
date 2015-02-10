@@ -48,3 +48,8 @@ If you think you’ve got something that should be in the list, feel free to fol
 * [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)
 * [Meta-Circular Adventures in Functional Abstraction](https://chriskohlhepp.wordpress.com/metacircular-adventures-in-functional-abstraction-challenging-clojure-in-common-lisp/)
 * [Functional Programming Books Overview](http://alexott.net/en/fp/books/)
+* [Clojure Concurrency - Rich Hickey] (https://www.youtube.com/watch?v=dGVqrGmwOAw)
+* [Transducers - Rich Hickey] (https://www.youtube.com/watch?v=6mTbuzafcII)
+* [Clojure in 10 big ideas - Stu Halloway] (https://www.youtube.com/watch?v=noiGVQoyYHw)
+* [Java 8 Lambda Expressions & Streams] (https://www.youtube.com/watch?v=8pDm_kH4YKY)
+* [Immutability Changes Everything - Pat Helland] (http://vimeo.com/52831373)
