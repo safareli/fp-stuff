@@ -34,3 +34,7 @@ Functinoal Programing and stuff
 * [Erik Meijer: Functional Programming](https://www.youtube.com/watch?v=z0N1aZ6SnBk)
 * [Monads in Dynamically-Typed Languages](http://eighty-twenty.org/2015/01/25/monads-in-dynamically-typed-languages/)
 * [Push-Pull Functional Reactive Programming](http://conal.net/papers/push-pull-frp/push-pull-frp.pdf)
+* [FRP on Android](http://slides.com/yaroslavheriatovych/frponandroid#/)
+* [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)
+* [Meta-Circular Adventures in Functional Abstraction](https://chriskohlhepp.wordpress.com/metacircular-adventures-in-functional-abstraction-challenging-clojure-in-common-lisp/)
+* [Functional Programming Books Overview](http://alexott.net/en/fp/books/)
