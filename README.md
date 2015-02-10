@@ -1,5 +1,5 @@
 # fp-stuff
-Functinoal Programing and stuff
+Functional programming and stuff
 
 ## a lot stuff
 * [defmacro - The Nature of Lisp](http://www.defmacro.org/ramblings/lisp.html)
