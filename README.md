@@ -53,3 +53,4 @@ If you think you’ve got something that should be in the list, feel free to fol
 * [Clojure in 10 big ideas - Stu Halloway] (https://www.youtube.com/watch?v=noiGVQoyYHw)
 * [Java 8 Lambda Expressions & Streams] (https://www.youtube.com/watch?v=8pDm_kH4YKY)
 * [Immutability Changes Everything - Pat Helland] (http://vimeo.com/52831373)
+* [Are We There Yet - Rich Hickey] (http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey)
