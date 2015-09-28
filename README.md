@@ -55,3 +55,4 @@ If you think you’ve got something that should be in the list, feel free to fol
 * [Immutability Changes Everything - Pat Helland] (http://vimeo.com/52831373)
 * [Are We There Yet - Rich Hickey] (http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey)
 * [Inside Clojure - Rich Hickey and Brian Beckman](https://www.youtube.com/watch?v=wASCH_gPnDw)
+* [Purely Functional I/O] (http://www.infoq.com/presentations/io-functional-side-effects)
