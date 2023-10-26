@@ -86,3 +86,5 @@ If you think you’ve got something that should be in the list, feel free to fol
 * [Functionalish programming in Python with effect](https://www.youtube.com/watch?v=fM5d_2BS6FY)
 * [Side Effects are a Public API | Christopher Armstrong](https://www.youtube.com/watch?v=D37dc9EoFus)
 * [Nonacceptance of functional programming makes the software industry suck](http://antonio-bonifati.blogspot.com/2011/11/nonacceptance-of-functional-programming.html)
+* [Composable Reducers & Effect Systems | Brandon Williams](https://www.youtube.com/watch?v=QOIigosUNGU)
+* [Applicatives and Swift | Stephen Celis](https://www.youtube.com/watch?v=Awva79gjoHY&t=633s) 
